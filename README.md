@@ -23,12 +23,12 @@
 </div>
 
 ---
-
+<sub>
 ## 🚀 Sobre mí
 - 💻 Orientado a full-stack (mentalidad front-first).
 - 🧠 Fuerte en resolución de problemas, arquitectura limpia y código mantenible.
 - 📌 Actualmente mejorando: patrones en TypeScript, rendimiento y testing.
-
+</sub>
 ---
 
 ## 🧰 Tecnologías
