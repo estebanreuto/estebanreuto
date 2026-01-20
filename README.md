@@ -1,9 +1,9 @@
 <div align="center">
 
-# 👋 Hi, I'm **Esteban Reuto**
-### Software Developer · Colombia 🇨🇴  
-**I build clean, scalable apps with modern web technologies.**  
-<sub>Focused on product thinking, performance, and great UI/UX.</sub>
+# 👋 Hola, soy **Esteban Reuto**
+### Desarrollador de Software · Colombia 🇨🇴  
+**Construyo aplicaciones limpias y escalables con tecnologías web modernas.**  
+<sub>Enfocado en visión de producto, rendimiento y una gran experiencia de usuario (UI/UX).</sub>
 
 <br/>
 
@@ -24,14 +24,14 @@
 
 ---
 
-## 🚀 About me
-- 💻 Full-stack oriented (Front-first mindset).
-- 🧠 Strong in problem-solving, clean architecture, and maintainable code.
-- 📌 Currently improving: TypeScript patterns, performance, and testing.
+## 🚀 Sobre mí
+- 💻 Orientado a full-stack (mentalidad front-first).
+- 🧠 Fuerte en resolución de problemas, arquitectura limpia y código mantenible.
+- 📌 Actualmente mejorando: patrones en TypeScript, rendimiento y testing.
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tecnologías
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript" />
   <img width="10" />
@@ -50,7 +50,7 @@
 
 ---
 
-## 📈 GitHub Analytics
+## 📈 Analítica de GitHub
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&hide_border=true&count_private=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&hide_border=true" />
@@ -58,23 +58,23 @@
 
 ---
 
-## 🧩 Featured Projects
-> Add 2–4 projects that represent your best work (quality > quantity).
+## 🧩 Proyectos Destacados
+> Agrega de 2 a 4 proyectos que representen tu mejor trabajo (calidad > cantidad).
 
-- **Project Name 1** — Short value statement (what it solves).  
+- **Nombre del Proyecto 1** — Frase corta de valor (qué resuelve).  
   Tech: React · TypeScript · Node  
   Repo: https://github.com/TU_USERNAME/REPO1
 
-- **Project Name 2** — Short value statement (impact / feature).  
-  Tech: Python · Automation · APIs  
+- **Nombre del Proyecto 2** — Frase corta de valor (impacto / característica).  
+  Tech: Python · Automatización · APIs  
   Repo: https://github.com/TU_USERNAME/REPO2
 
 ---
 
-## 🤝 Let's connect
-- 📩 Email: **TU_CORREO@gmail.com**
+## 🤝 Conectemos
+- 📩 Correo: **TU_CORREO@gmail.com**
 - 📷 Instagram: **@TU_USUARIO**
 
 <div align="center">
-  <sub>“Shipping > perfect. But we ship with standards.”</sub>
+  <sub>“Enviar a producción > perfecto. Pero enviamos con estándares.”</sub>
 </div>
