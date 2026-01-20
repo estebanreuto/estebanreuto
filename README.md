@@ -5,7 +5,6 @@
 **Construyo aplicaciones limpias y escalables con tecnologías web modernas.**  
 <sub>Enfocado en visión de producto, rendimiento y una gran experiencia de usuario (UI/UX).</sub>
 
-<br/>
 
 <a href="https://www.instagram.com/TU_USUARIO" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="32" />
@@ -16,15 +15,13 @@
 
 </div>
 
-<br/>
-
 <div align="center">
   <img height="160" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnU3b2dqMXlyZ3BscGpxM3MyNDZnYWkydGxkMWE3eGEzYzc2YnAzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y3NMj8fyjUJBkJGU2o/giphy.gif" />
 </div>
 
 ---
 <sub>
-## 🚀 Sobre mí
+🚀 Sobre mí
 - 💻 Orientado a full-stack (mentalidad front-first).
 - 🧠 Fuerte en resolución de problemas, arquitectura limpia y código mantenible.
 - 📌 Actualmente mejorando: patrones en TypeScript, rendimiento y testing.
