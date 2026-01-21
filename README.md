@@ -47,14 +47,6 @@
 
 ---
 
-## 📈 Analítica de GitHub
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&hide_border=true" />
-</div>
-
----
-
 ## 🧩 Proyectos Destacados
 > Agrega de 2 a 4 proyectos que representen tu mejor trabajo (calidad > cantidad).
 
